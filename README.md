@@ -1,6 +1,6 @@
 # memegenerator
 
-A new Flutter application.
+A new Flutter application for all the Meme Lovers out there to make and save memes on your device.
 
 ## Getting Started
 
